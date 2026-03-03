@@ -5,7 +5,7 @@
             clientLinkUrl: "http://localhost:8127/api",
             
             // GitHub Pages base path (leave empty for root domain, or set to "/repo-name" for GitHub Pages)
-            basePath: "",
+            basePath: "/aporia-cc.github.io",
 
             discordLink: "https://t.me/batareikasource",
             telegramLink: "https://t.me/batareikasource",
